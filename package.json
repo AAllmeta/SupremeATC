@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Arben Allmeta",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "nightmare": "^2.10.0"
   }
